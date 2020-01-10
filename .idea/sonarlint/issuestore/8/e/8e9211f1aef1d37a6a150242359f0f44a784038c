@@ -1,0 +1,8 @@
+
+]squid:S1854-":Remove this useless assignment to local variable "alert3".(ÑõŸÿÿÿÿÿ8’ÎÚô-
+Nsquid:S1481"+Remove this unused "alert1" local variable.(ÁÂà‰øÿÿÿÿ8 ÍÖô-
+osquid:UselessImportCheck"DRemove this unused import 'org.openqa.selenium.interactions.Action'.(›ó8 ÍÖô-
+]squid:S1854":Remove this useless assignment to local variable "alert1".(ÁÂà‰øÿÿÿÿ8 ÍÖô-
+Nsquid:S1481%"+Remove this unused "alert2" local variable.(·â¡ıÿÿÿÿ8 ÍÖô-
+Nsquid:S1481-"+Remove this unused "alert3" local variable.(ÑõŸÿÿÿÿÿ8£Äàô-
+]squid:S1854%":Remove this useless assignment to local variable "alert2".(·â¡ıÿÿÿÿ8 ÍÖô-
